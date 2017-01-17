@@ -24,6 +24,18 @@
 		F2AD8E571E2E04AB0077DA15 /* RWPhotoAlbumTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F2AD8E551E2E04AB0077DA15 /* RWPhotoAlbumTableViewCell.m */; };
 		F2AD8E781E2E0A4D0077DA15 /* RWPhotoCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F2AD8E771E2E0A4D0077DA15 /* RWPhotoCollectionViewCell.m */; };
 		F2AD8E791E2E0A4D0077DA15 /* RWPhotoCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F2AD8E771E2E0A4D0077DA15 /* RWPhotoCollectionViewCell.m */; };
+		F2AD8E801E2E0B0F0077DA15 /* navi_back_btn.png in Resources */ = {isa = PBXBuildFile; fileRef = F2AD8E7B1E2E0B0F0077DA15 /* navi_back_btn.png */; };
+		F2AD8E811E2E0B0F0077DA15 /* navi_back_btn.png in Resources */ = {isa = PBXBuildFile; fileRef = F2AD8E7B1E2E0B0F0077DA15 /* navi_back_btn.png */; };
+		F2AD8E821E2E0B0F0077DA15 /* navi_back_btn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2AD8E7C1E2E0B0F0077DA15 /* navi_back_btn@2x.png */; };
+		F2AD8E831E2E0B0F0077DA15 /* navi_back_btn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2AD8E7C1E2E0B0F0077DA15 /* navi_back_btn@2x.png */; };
+		F2AD8E841E2E0B0F0077DA15 /* photo_list_camera@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2AD8E7D1E2E0B0F0077DA15 /* photo_list_camera@2x.png */; };
+		F2AD8E851E2E0B0F0077DA15 /* photo_list_camera@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2AD8E7D1E2E0B0F0077DA15 /* photo_list_camera@2x.png */; };
+		F2AD8E861E2E0B0F0077DA15 /* photo_selected_arrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2AD8E7E1E2E0B0F0077DA15 /* photo_selected_arrow@2x.png */; };
+		F2AD8E871E2E0B0F0077DA15 /* photo_selected_arrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2AD8E7E1E2E0B0F0077DA15 /* photo_selected_arrow@2x.png */; };
+		F2AD8E881E2E0B0F0077DA15 /* photo_selected_arrow_grey@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2AD8E7F1E2E0B0F0077DA15 /* photo_selected_arrow_grey@2x.png */; };
+		F2AD8E891E2E0B0F0077DA15 /* photo_selected_arrow_grey@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2AD8E7F1E2E0B0F0077DA15 /* photo_selected_arrow_grey@2x.png */; };
+		F2AD8E8D1E2E0BB50077DA15 /* RWPhotoListLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = F2AD8E8C1E2E0BB50077DA15 /* RWPhotoListLayout.m */; };
+		F2AD8E8E1E2E0BB50077DA15 /* RWPhotoListLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = F2AD8E8C1E2E0BB50077DA15 /* RWPhotoListLayout.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +73,13 @@
 		F2AD8E551E2E04AB0077DA15 /* RWPhotoAlbumTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RWPhotoAlbumTableViewCell.m; sourceTree = "<group>"; };
 		F2AD8E761E2E0A4D0077DA15 /* RWPhotoCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RWPhotoCollectionViewCell.h; sourceTree = "<group>"; };
 		F2AD8E771E2E0A4D0077DA15 /* RWPhotoCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RWPhotoCollectionViewCell.m; sourceTree = "<group>"; };
+		F2AD8E7B1E2E0B0F0077DA15 /* navi_back_btn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = navi_back_btn.png; sourceTree = "<group>"; };
+		F2AD8E7C1E2E0B0F0077DA15 /* navi_back_btn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navi_back_btn@2x.png"; sourceTree = "<group>"; };
+		F2AD8E7D1E2E0B0F0077DA15 /* photo_list_camera@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo_list_camera@2x.png"; sourceTree = "<group>"; };
+		F2AD8E7E1E2E0B0F0077DA15 /* photo_selected_arrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo_selected_arrow@2x.png"; sourceTree = "<group>"; };
+		F2AD8E7F1E2E0B0F0077DA15 /* photo_selected_arrow_grey@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo_selected_arrow_grey@2x.png"; sourceTree = "<group>"; };
+		F2AD8E8B1E2E0BB50077DA15 /* RWPhotoListLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RWPhotoListLayout.h; sourceTree = "<group>"; };
+		F2AD8E8C1E2E0BB50077DA15 /* RWPhotoListLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RWPhotoListLayout.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +163,8 @@
 		F2AD8E391E2DFC500077DA15 /* RWPhotoPicker */ = {
 			isa = PBXGroup;
 			children = (
+				F2AD8E8A1E2E0B8A0077DA15 /* Layout */,
+				F2AD8E7A1E2E0B0F0077DA15 /* Resource */,
 				F2AD8E531E2E04850077DA15 /* Cell */,
 				F2AD8E4E1E2E00BA0077DA15 /* Model */,
 				F2AD8E421E2DFC8C0077DA15 /* RWPhotoAlbumViewController.h */,
@@ -174,6 +195,27 @@
 				F2AD8E771E2E0A4D0077DA15 /* RWPhotoCollectionViewCell.m */,
 			);
 			path = Cell;
+			sourceTree = "<group>";
+		};
+		F2AD8E7A1E2E0B0F0077DA15 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				F2AD8E7B1E2E0B0F0077DA15 /* navi_back_btn.png */,
+				F2AD8E7C1E2E0B0F0077DA15 /* navi_back_btn@2x.png */,
+				F2AD8E7D1E2E0B0F0077DA15 /* photo_list_camera@2x.png */,
+				F2AD8E7E1E2E0B0F0077DA15 /* photo_selected_arrow@2x.png */,
+				F2AD8E7F1E2E0B0F0077DA15 /* photo_selected_arrow_grey@2x.png */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		F2AD8E8A1E2E0B8A0077DA15 /* Layout */ = {
+			isa = PBXGroup;
+			children = (
+				F2AD8E8B1E2E0BB50077DA15 /* RWPhotoListLayout.h */,
+				F2AD8E8C1E2E0BB50077DA15 /* RWPhotoListLayout.m */,
+			);
+			path = Layout;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -260,8 +302,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2AD8E841E2E0B0F0077DA15 /* photo_list_camera@2x.png in Resources */,
 				F2AD8E141E2DFACB0077DA15 /* LaunchScreen.storyboard in Resources */,
+				F2AD8E821E2E0B0F0077DA15 /* navi_back_btn@2x.png in Resources */,
+				F2AD8E861E2E0B0F0077DA15 /* photo_selected_arrow@2x.png in Resources */,
+				F2AD8E801E2E0B0F0077DA15 /* navi_back_btn.png in Resources */,
 				F2AD8E111E2DFACB0077DA15 /* Assets.xcassets in Resources */,
+				F2AD8E881E2E0B0F0077DA15 /* photo_selected_arrow_grey@2x.png in Resources */,
 				F2AD8E0F1E2DFACB0077DA15 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,6 +317,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2AD8E871E2E0B0F0077DA15 /* photo_selected_arrow@2x.png in Resources */,
+				F2AD8E851E2E0B0F0077DA15 /* photo_list_camera@2x.png in Resources */,
+				F2AD8E831E2E0B0F0077DA15 /* navi_back_btn@2x.png in Resources */,
+				F2AD8E891E2E0B0F0077DA15 /* photo_selected_arrow_grey@2x.png in Resources */,
+				F2AD8E811E2E0B0F0077DA15 /* navi_back_btn.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,6 +336,7 @@
 				F2AD8E441E2DFC8C0077DA15 /* RWPhotoAlbumViewController.m in Sources */,
 				F2AD8E0C1E2DFACB0077DA15 /* ViewController.m in Sources */,
 				F2AD8E561E2E04AB0077DA15 /* RWPhotoAlbumTableViewCell.m in Sources */,
+				F2AD8E8D1E2E0BB50077DA15 /* RWPhotoListLayout.m in Sources */,
 				F2AD8E091E2DFACB0077DA15 /* AppDelegate.m in Sources */,
 				F2AD8E4C1E2DFD6A0077DA15 /* RWPhotoPickerViewController.m in Sources */,
 				F2AD8E511E2E00E00077DA15 /* RWPhotoAlbumModel.m in Sources */,
@@ -298,6 +351,7 @@
 				F2AD8E521E2E00E00077DA15 /* RWPhotoAlbumModel.m in Sources */,
 				F2AD8E4D1E2DFD6A0077DA15 /* RWPhotoPickerViewController.m in Sources */,
 				F2AD8E791E2E0A4D0077DA15 /* RWPhotoCollectionViewCell.m in Sources */,
+				F2AD8E8E1E2E0BB50077DA15 /* RWPhotoListLayout.m in Sources */,
 				F2AD8E571E2E04AB0077DA15 /* RWPhotoAlbumTableViewCell.m in Sources */,
 				F2AD8E451E2DFC8C0077DA15 /* RWPhotoAlbumViewController.m in Sources */,
 				F2AD8E1F1E2DFACB0077DA15 /* PhotoPickerSampleTests.m in Sources */,
